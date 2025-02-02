@@ -1,1 +1,2 @@
 Type Function
+Type UnaryFunction:Function
