@@ -1,0 +1,7 @@
+
+
+                          term  ::=  function ;
+
+
+                      function  ::=  argument<NO_WHITESPACE>"(" argument ")" ;
+

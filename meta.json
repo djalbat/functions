@@ -1,5 +1,7 @@
 {
   "version": "0.0.0",
   "repository": "https://github.com/djalbat/functions",
-  "dependencies": {}
+  "dependencies": {
+    "collections": "0.0"
+  }
 }
