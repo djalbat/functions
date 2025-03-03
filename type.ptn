@@ -1,1 +1,1 @@
-Function\b|UnaryFunction\b
+Function\b|NullaryFunction\b|UnaryFunction\b|BinaryFunction\b

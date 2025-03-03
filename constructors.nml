@@ -1,1 +1,3 @@
+Constructor Element():NullaryFunction
 Constructor Element(Element):UnaryFunction
+Constructor Element(Element, Element):BinaryFunction
