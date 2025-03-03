@@ -1,4 +1,4 @@
-Type Function
+Type Function:Element
 Type NullaryFunction:Function
 Type UnaryFunction:Function
 Type BinaryFunction:Function
