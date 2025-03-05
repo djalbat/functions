@@ -1,4 +1,7 @@
 
 
-                          term  ::=  argument<NO_WHITESPACE>"(" ( argument ( "," argument )* )? ")" ;
+                          term  ::=  argument<NO_WHITESPACE>"(" arguments? ")"  ;
+
+
+                     arguments  ::=  argument ( "," argument )*  ;
 
