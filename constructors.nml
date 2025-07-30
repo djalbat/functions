@@ -1,3 +1,3 @@
 Constructor NullaryFunction()
-Constructor UnaryFunction(Object)
-Constructor BinaryFunction(Object,Object)
+Constructor UnaryFunction(_)
+Constructor BinaryFunction(_,_)
