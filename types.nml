@@ -1,5 +1,5 @@
-Type Function
+Type 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻
 
-Type NullaryFunction:Function
-Type UnaryFunction:Function
-Type BinaryFunction:Function
+Type 𝗡𝘂𝗹𝗹𝗮𝗿𝘆𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻:𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻
+Type 𝗨𝗻𝗮𝗿𝘆𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻:𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻
+Type 𝗕𝗶𝗻𝗮𝗿𝘆𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻:𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻
